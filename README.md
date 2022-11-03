@@ -1,4 +1,4 @@
-# schoolapp
+# Traffic App
 
 A new Flutter project.
 
